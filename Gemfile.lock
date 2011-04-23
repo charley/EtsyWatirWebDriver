@@ -2,7 +2,6 @@ GEM
   remote: http://rubygems.org/
   specs:
     builder (3.0.0)
-    celerity (0.8.7)
     childprocess (0.1.6)
       ffi (~> 0.6.3)
     cucumber (0.10.0)
@@ -46,7 +45,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  celerity
   cucumber
   rspec
   watir-webdriver
